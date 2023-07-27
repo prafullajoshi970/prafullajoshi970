@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm Frontend developer
+🧑 Frontend Developer.
+🛄 Apprenticing at frontend developers at Geekster.
+🧑‍💻 Holds a Bachelor degree in Electronics and telecommunication engineering RHSCOE,Nashik,Maharashtra,  India.
+💻 Proficient in React-Js.
+📖 Knowlege in web technologies Html, css, javascript, react-js.
+🌐 Passionate about learning new technology's.
 
 
 ## 🌐 Socials:
